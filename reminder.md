@@ -1,0 +1,1 @@
+![VIM commands](VIM_cmds.png)
